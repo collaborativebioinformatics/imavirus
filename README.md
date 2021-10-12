@@ -6,7 +6,7 @@
 Alejandro Gener (lead), 
 Michael Jochum, 
 Hiroko Ohmiya, 
-Carolina Peralta, 
+Carolina Peralta (writer), 
 Remy Schwab, 
 Rajarshi Mondal, 
 Daniel Cameron, 
