@@ -61,9 +61,11 @@ Tg26 HIV transgenic mouse RNA-seq data will be used to evaluate insertion sites 
 
 Other tools doing similar things:
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6357354/
+Nguyen, Nam-phuong D., Viraj Deshpande, Jens Luebeck, Paul S. Mischel, and Vineet Bafna. 2018. “ViFi: Accurate Detection of Viral Integration and MRNA Fusion Reveals Indiscriminate and Unregulated Transcription in Proximal Genomic Regions in Cervical Cancer.” Nucleic Acids Research 46(7):3309–25.
 
-https://academic.oup.com/nar/article/46/7/3309/4944397
+Xia, Yuchao, Yun Liu, Minghua Deng, and Ruibin Xi. 2019. “Detecting Virus Integration Sites Based on Multiple Related Sequencing Data by VirTect.” BMC Medical Genomics 12(Suppl 1):19.
+
+Cameron, Daniel L., Nina Jacobs, Paul Roepman, Peter Priestley, Edwin Cuppen, and Anthony T. Papenfuss. 2021. “VIRUSBreakend: Viral Integration Recognition Using Single Breakends.” Bioinformatics 37(19):3115–19.
 
 Tools:
 
