@@ -29,6 +29,14 @@ This project has two main aims: 1) to identify (putative) integration sites (pIS
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/2f27cd88604fc01b134df44fc492afca9830ef25/Untitled%20Diagram%20v2.jpg)
 
+## Methods
+
+SRA -> Accessions 
+
+Minimap2 will be used to query thresholded data.
+
+Quality control measures
+
 ## Test data
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/faea5562d55e5ac4700ae02ffdca48d0b5d2b284/Screen%20Shot%202021-10-12%20at%2011.51.39%20AM.png)
