@@ -1,4 +1,4 @@
-# imavirus: finding virus integration sites 
+# imavirus: finding virus integration sites, and more!* (*allegedly)
 
 
 ## Contributors
