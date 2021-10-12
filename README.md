@@ -27,7 +27,7 @@ This project has two main aims: 1) to identify (putative) integration sites (pIS
 
 ## Overview Diagram
 
-![](Untitled Diagram v2.jpg)
+![](https://github.com/collaborativebioinformatics/imavirus/blob/2f27cd88604fc01b134df44fc492afca9830ef25/Untitled%20Diagram%20v2.jpg)
 
 ## Test data
 
