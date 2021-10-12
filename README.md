@@ -37,7 +37,7 @@ Above depends on depositors including virus-specific metadata.
 
 For EBV, ENCODE data from lymphoblasrtoid cell lines may not have EBV metadata.
 
-Tg26 HIV transgenic mouse RNA-seq data will be used to evaluate insertion sites from RNA-seq. 
+Tg26 HIV transgenic mouse RNA-seq data will be used to evaluate insertion sites from RNA-seq. The accession for the pNL4-3 used to make the Tg26 mouse is GenBank:AF324493.2.
 
 ## Results
 
