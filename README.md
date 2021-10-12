@@ -34,7 +34,7 @@ Figure 1: Project overview
 
 SRA -> Accessions 
 
-Minimap2 will be used to query thresholded data.
+Minimap2 will be used to query thresholded data. Human reference genome: hg19. Mouse reference genome mm10. See table for virus reference genomes.
 
 Quality control measures
 
