@@ -55,6 +55,8 @@ Minimap2: Li, Heng. 2018. “Minimap2: Pairwise Alignment for Nucleotide Sequenc
 
 Datasets:
 
+Tg26 mouse: https://www.jax.org/strain/022354
+
 Tg26 RNA-seq dataset: Chakravarthi, V. Praveen, Sireesha Yerrathota, Priyanka Radadiya, Clark Bloomer, Sumedha Gunewardhana, and Madhulika Sharma. 2020. “Transcriptomic Data Indicating Differential Expressed Genes between HIV-1 Associated Nephropathy (HIVAN) Mouse Model (Tg26) and Wildtype Mice.” Data in Brief 30:4–8.
 
 Tg26 insertion site: Gharavi, A. G., T. Ahmad, R. D. Wong, R. Hooshyar, J. Vaughn, S. Oller, R. Z. Frankel, L. A. Bruggeman, V. D. D’Agati, P. E. Klotman, and R. P. Lifton. 2004. “Mapping a Locus for Susceptibility to HIV-1-Associated Nephropathy to Mouse Chromosome 3.” Proc Natl Acad Sci U S A 101(8):2488–93.
