@@ -3,15 +3,15 @@
 
 ## Contributors
 
-Alejandro Gener (lead) 
-Michael Jochum 
-Hiroko Ohmiya 
-Carolina Peralta 
-Remy Schwab 
-Rajarshi Mondal 
-Daniel Cameron 
-Enrico Barrozo 
-Fawaz Dabbaghie 
+Alejandro Gener (lead), 
+Michael Jochum, 
+Hiroko Ohmiya, 
+Carolina Peralta, 
+Remy Schwab, 
+Rajarshi Mondal, 
+Daniel Cameron, 
+Enrico Barrozo, 
+Fawaz Dabbaghie, 
 
 
 ## Description
