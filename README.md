@@ -31,5 +31,6 @@ This project has two main aims: 1) to identify (putative) integration sites (pIS
 
 ## Test data
 
+![](https://github.com/collaborativebioinformatics/imavirus/blob/faea5562d55e5ac4700ae02ffdca48d0b5d2b284/Screen%20Shot%202021-10-12%20at%2011.51.39%20AM.png)
 
 ## Results
