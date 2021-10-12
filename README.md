@@ -1,4 +1,4 @@
-# imavirus: Interrogating MAssive public databases to identify clinically relevant viral integration sites from available unbiased RNA-seq datasets.
+# imavirus: Interrogating MAssive public databases to identify clinically relevant Viral integration sites from available unbiased RNA-seq datasets.
 
 
 ## Contributors
