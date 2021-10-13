@@ -57,8 +57,8 @@ Tg26 HIV transgenic mouse RNA-seq data will be used to evaluate insertion sites 
 
 ## Results
 
-![]()
-Figure 3:
+![](https://github.com/collaborativebioinformatics/imavirus/blob/9f98ed66786761bb9c3a7d75e78c0c0eecf58f17/Screen%20Shot%202021-10-12%20at%2011.05.21%20PM.png)
+Figure 3: HISAT2 retained read group and pairs' chromosome info for easy visual inspection. Putative insertion half-sites on chr8 are supported my short-read data. Data: SRR10302267.
 
 ![]()
 Figure 4:
