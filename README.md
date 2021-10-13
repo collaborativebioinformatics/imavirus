@@ -59,7 +59,7 @@ Tg26 HIV transgenic mouse RNA-seq data will be used to evaluate insertion sites 
 ## Results
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/9f98ed66786761bb9c3a7d75e78c0c0eecf58f17/Screen%20Shot%202021-10-12%20at%2011.05.21%20PM.png)
-Figure 3: HISAT2 retained read group and pairs' chromosome info for easy visual inspection. Putative insertion half-sites on chr8 are supported my short-read data. Data: SRR10302267.
+Figure 3: HISAT2 retained read group and pairs' chromosome info for easy visual inspection. Putative insertion half-sites on chr8 are supported my short-read data. Data: SRR10302267. The pNL4-3 plasmid backbone segment is marked in red. Breakpoints analogous to reads spannig insertion half-sites occure upstream and downstream of plasmid backbone.
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/10e9939a319b1c3306493a512a61ac25b1e9aeeb/snapshort_01.png)
 Figure 4: STAR notes chimeric reads (Figure 2), recapitulating an HIV transgene insertion half-site in mouse Dcaf15. The other site on chr8 is in Cdc2a, which is our of frame.
