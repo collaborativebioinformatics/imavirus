@@ -11,7 +11,7 @@ Enrico Barrozo
 
 
 ## Description
-Identifying insertions and in particular virus integration sites is challenging. Moreover, there are not many tools to reliabliy detect viral presence and integration events. Many virus have the capability of integrating into host genomes and can lead to DNA damage and disrupt genes. Identifying insertion sites from genomic DNA is challenging. The aim of this project is to find putative virus integration sites (pIS) in public data. 
+Identifying insertions and in particular virus integration sites is challenging. Moreover, there are not many tools to reliabliy detect viral presence and integration events. Many virus have the capability of integrating into host genomes and can lead to DNA damage and disrupt genes. Identifying insertion sites from genomic DNA is challenging. The goal of this project is to enable finding putative virus integration sites (pIS) in public data. 
 
 
 ## Goals
