@@ -29,10 +29,10 @@ This project has two main aims: 1) to identify (putative) integration sites (pIS
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/2f27cd88604fc01b134df44fc492afca9830ef25/Untitled%20Diagram%20v2.jpg)
 
-Figure 1: Project overview
+***Figure 1: Project overview
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/7dd2b136a9592c2cb86b449f48f7b54aa2df7a67/SV%20hackathon%20figure.jpg)
-Figure 2: Reads from single- and paired-end data can support putative virus integration (insertion) sites.
+***Figure 2: Reads from single- and paired-end data can support putative virus integration (insertion) sites.
 
 ## Methods
 
@@ -47,10 +47,10 @@ Figure 2: Reads from single- and paired-end data can support putative virus inte
 ## Test data
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/84a24bed481bd93c2771a7d395ef160db5497db3/Screen%20Shot%202021-10-12%20at%202.57.23%20PM.png)
-Table 1: Viruse reference genomes considered
+***Table 1: Viruse reference genomes considered
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/faea5562d55e5ac4700ae02ffdca48d0b5d2b284/Screen%20Shot%202021-10-12%20at%2011.51.39%20AM.png)
-Table 2: Metrics for datasets pulled from Short Read Archive (SRA) before threshholding.
+***Table 2: Metrics for datasets pulled from Short Read Archive (SRA) before threshholding.
 
 Above depends on depositors including virus-specific metadata.
 
@@ -61,15 +61,15 @@ Tg26 HIV transgenic mouse RNA-seq data will be used to evaluate insertion sites 
 ## Results
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/9f98ed66786761bb9c3a7d75e78c0c0eecf58f17/Screen%20Shot%202021-10-12%20at%2011.05.21%20PM.png)
-Figure 3: HISAT2 retained read group and pairs' chromosome info for easy visual inspection. Putative insertion half-sites on chr8 are supported my short-read data. Data: SRR10302267. The pNL4-3 plasmid backbone segment is marked in red. Breakpoints analogous to reads spannig insertion half-sites occure upstream and downstream of plasmid backbone.
+***Figure 3: HISAT2 retained read group and pairs' chromosome info for easy visual inspection. Putative insertion half-sites on chr8 are supported my short-read data. Data: SRR10302267. The pNL4-3 plasmid backbone segment is marked in red. Breakpoints analogous to reads spannig insertion half-sites occure upstream and downstream of plasmid backbone.
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/10e9939a319b1c3306493a512a61ac25b1e9aeeb/snapshort_01.png)
-Figure 4: STAR notes chimeric reads (Figure 2), recapitulating an HIV transgene insertion half-site in mouse Dcaf15. The other site on chr8 is in Cdc2a, which is our of frame.
+***Figure 4: STAR notes chimeric reads (Figure 2), recapitulating an HIV transgene insertion half-site in mouse Dcaf15. The other site on chr8 is in Cdc2a, which is our of frame.
 
 
 ## Sources
 
-Other tools doing similar things:
+***Other tools doing similar things:
 
 Nguyen, Nam-phuong D., Viraj Deshpande, Jens Luebeck, Paul S. Mischel, and Vineet Bafna. 2018. “ViFi: Accurate Detection of Viral Integration and MRNA Fusion Reveals Indiscriminate and Unregulated Transcription in Proximal Genomic Regions in Cervical Cancer.” Nucleic Acids Research 46(7):3309–25.
 
@@ -77,7 +77,7 @@ Xia, Yuchao, Yun Liu, Minghua Deng, and Ruibin Xi. 2019. “Detecting Virus Inte
 
 Cameron, Daniel L., Nina Jacobs, Paul Roepman, Peter Priestley, Edwin Cuppen, and Anthony T. Papenfuss. 2021. “VIRUSBreakend: Viral Integration Recognition Using Single Breakends.” Bioinformatics 37(19):3115–19.
 
-Tools:
+***Tools used:
 
 Minimap2: Li, Heng. 2018. “Minimap2: Pairwise Alignment for Nucleotide Sequences.” Bioinformatics 34(18):3094–3100.
 
@@ -87,7 +87,7 @@ HISAT2: Kim, Daehwan, Ben Langmead, and Steven L. Salzberg. 2015. “HISAT : A F
 
 Galaxy: Afgan, Enis, Dannon Baker, Marius van den Beek, Daniel Blankenberg, Dave Bouvier, Martin Čech, John Chilton, Dave Clements, Nate Coraor, Carl Eberhard, Björn Grüning, Aysam Guerler, Jennifer Hillman-Jackson, Greg Von Kuster, Eric Rasche, Nicola Soranzo, Nitesh Turaga, James Taylor, Anton Nekrutenko, and Jeremy Goecks. 2016. “The Galaxy Platform for Accessible, Reproducible and Collaborative Biomedical Analyses: 2016 Update.” Nucleic Acids Research 44(W1):W3–10.
 
-Datasets:
+***Datasets:
 
 Tg26 mouse: https://www.jax.org/strain/022354
 
