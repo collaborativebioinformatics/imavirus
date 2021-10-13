@@ -61,8 +61,8 @@ Tg26 HIV transgenic mouse RNA-seq data will be used to evaluate insertion sites 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/9f98ed66786761bb9c3a7d75e78c0c0eecf58f17/Screen%20Shot%202021-10-12%20at%2011.05.21%20PM.png)
 Figure 3: HISAT2 retained read group and pairs' chromosome info for easy visual inspection. Putative insertion half-sites on chr8 are supported my short-read data. Data: SRR10302267.
 
-![]()
-Figure 4:
+![](https://github.com/collaborativebioinformatics/imavirus/blob/10e9939a319b1c3306493a512a61ac25b1e9aeeb/snapshort_01.png)
+Figure 4: STAR notes chimeric reads (Figure 2), recapitulating an HIV transgene insertion half-site in mouse Dcaf15. The other site on chr8 is in Cdc2a, which is our of frame.
 
 
 ## Sources
@@ -78,6 +78,12 @@ Cameron, Daniel L., Nina Jacobs, Paul Roepman, Peter Priestley, Edwin Cuppen, an
 Tools:
 
 Minimap2: Li, Heng. 2018. “Minimap2: Pairwise Alignment for Nucleotide Sequences.” Bioinformatics 34(18):3094–3100.
+
+STAR: Dobin, Alexander, Carrie A. Davis, Felix Schlesinger, Jorg Drenkow, Chris Zaleski, Sonali Jha, Philippe Batut, Mark Chaisson, and Thomas R. Gingeras. 2013. “STAR: Ultrafast Universal RNA-Seq Aligner.” Bioinformatics (Oxford, England) 29(1):15–21.
+
+HISAT2: Kim, Daehwan, Ben Langmead, and Steven L. Salzberg. 2015. “HISAT : A Fast Spliced Aligner with Low Memory Requirements.” 12(4).
+
+Galaxy: Afgan, Enis, Dannon Baker, Marius van den Beek, Daniel Blankenberg, Dave Bouvier, Martin Čech, John Chilton, Dave Clements, Nate Coraor, Carl Eberhard, Björn Grüning, Aysam Guerler, Jennifer Hillman-Jackson, Greg Von Kuster, Eric Rasche, Nicola Soranzo, Nitesh Turaga, James Taylor, Anton Nekrutenko, and Jeremy Goecks. 2016. “The Galaxy Platform for Accessible, Reproducible and Collaborative Biomedical Analyses: 2016 Update.” Nucleic Acids Research 44(W1):W3–10.
 
 Datasets:
 
