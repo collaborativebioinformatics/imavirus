@@ -29,7 +29,7 @@ This project has two main aims: 1) to identify (putative) integration sites (pIS
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/2f27cd88604fc01b134df44fc492afca9830ef25/Untitled%20Diagram%20v2.jpg)
 
-***Figure 1: Project overview
+***Figure 1: Project overview***
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/7dd2b136a9592c2cb86b449f48f7b54aa2df7a67/SV%20hackathon%20figure.jpg)
 ***Figure 2: Reads from single- and paired-end data can support putative virus integration (insertion) sites.
