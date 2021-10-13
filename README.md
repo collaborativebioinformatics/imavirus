@@ -7,11 +7,7 @@ Alejandro Gener (lead),
 Michael Jochum, 
 Hiroko Ohmiya, 
 Carolina Peralta (writer), 
-Remy Schwab, 
-Rajarshi Mondal, 
-Daniel Cameron, 
-Enrico Barrozo, 
-Fawaz Dabbaghie, 
+Enrico Barrozo 
 
 
 ## Description
@@ -34,6 +30,7 @@ This project has two main aims: 1) to identify (putative) integration sites (pIS
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/7dd2b136a9592c2cb86b449f48f7b54aa2df7a67/SV%20hackathon%20figure.jpg)
 ***Figure 2: Reads from single- and paired-end data can support putative virus integration (insertion) sites.***
 
+
 ## Methods
 
 1.) SRA -> Accessions 
@@ -43,6 +40,7 @@ This project has two main aims: 1) to identify (putative) integration sites (pIS
 3.) Quality control measures include at read level and target coverage. Minimap2/STAR/HISAT2 will be used to query thresholded data.
 
 4.) We will evaluate common mappers Minimap2/STAR/HISAT2 for their ability to identify HIV transgene insertion sites from a the Tg26 model organism (Jax:022354). Tg26 is a mouse with HIV inserted as a transgene in 15 copies across several previously characterized sites (Gener et al. 2020).
+
 
 ## Test data
 
@@ -58,6 +56,7 @@ For EBV, ENCODE data from lymphoblasrtoid cell lines may not have EBV metadata.
 
 Tg26 HIV transgenic mouse RNA-seq data will be used to evaluate insertion sites from RNA-seq. The accession for the pNL4-3 used to make the Tg26 mouse is GenBank:AF324493.2.
 
+
 ## Results
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/9f98ed66786761bb9c3a7d75e78c0c0eecf58f17/Screen%20Shot%202021-10-12%20at%2011.05.21%20PM.png)
@@ -65,6 +64,11 @@ Tg26 HIV transgenic mouse RNA-seq data will be used to evaluate insertion sites 
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/10e9939a319b1c3306493a512a61ac25b1e9aeeb/snapshort_01.png)
 ***Figure 4: STAR notes chimeric reads (Figure 2), recapitulating an HIV transgene insertion half-site in mouse Dcaf15. The other site on chr8 is in Cdc2a, which is our of frame.***
+
+
+## Acknowledgements
+
+We'd like to thank the organizers of the current Hackathon. We'd like to thank Daniel Cameron for helpful comments.
 
 
 ## Sources
