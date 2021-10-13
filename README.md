@@ -67,7 +67,7 @@ Tg26 HIV transgenic mouse RNA-seq data will be used to evaluate insertion sites 
 
 ***Benchmark*** existing integration-specific apps vs. traditional (not integration-specific) mapping apps on control samples such as Tg26. Interrogate large datasets after tuning above apps with control datasets.
 
-***Implementing into DNANexus to enabling non-bioinfos to plug-and-play (with caution).
+***Implementing into DNANexus to enabling non-bioinfos to plug-and-play (with caution).***
 
 ## Acknowledgements
 
