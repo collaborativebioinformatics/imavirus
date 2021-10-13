@@ -36,11 +36,13 @@ Figure 2: Reads from single- and paired-end data can support putative virus inte
 
 ## Methods
 
-SRA -> Accessions 
+1.) SRA -> Accessions 
 
-Minimap2 will be used to query thresholded data. Human reference genome: hg19. Mouse reference genome mm10. See table for virus reference genomes.
+2.) Human reference genome: hg19. Mouse reference genome mm10. See table for virus reference genomes.
 
-Quality control measures
+3.) Quality control measures include at read level and target coverage. Minimap2/STAR/HISAT2 will be used to query thresholded data.
+
+4.) We will evaluate common mappers Minimap2/STAR/HISAT2 for their ability to identify HIV transgene insertion sites from a the Tg26 model organism (Jax:022354). Tg26 is a mouse with HIV inserted as a transgene in 15 copies across several previously characterized sites (Gener et al. 2020).
 
 ## Test data
 
