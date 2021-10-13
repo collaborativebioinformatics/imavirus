@@ -28,7 +28,7 @@ This project has two main aims: 1) to identify (putative) integration sites (pIS
 ***Figure 1: Project overview***
 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/98068fc42d9d4617de2d754e05daa09e059385d7/SV%20hackathon%20figure%20v2.jpg)
-***Figure 2: Reads from single- and paired-end short-read data can support putative virus integration (insertion) sites. Long-read (e.g. PacBio, Nanopore) are becoming standard approaches at interrogating structural variants, with the study of viral integration sites lagging behind.***
+***Figure 2: Reads from single- and paired-end short-read data can support putative virus integration (insertion) sites. Long-read (e.g. PacBio, Nanopore) are becoming standard approaches at interrogating structural variants, with the study of viral integration sites lagging behind. Note, the virus insertion site need not be a single copy as implied in simple cartoon above.***
 
 
 ## Methods
