@@ -63,6 +63,11 @@ Tg26 HIV transgenic mouse RNA-seq data will be used to evaluate insertion sites 
 ![](https://github.com/collaborativebioinformatics/imavirus/blob/10e9939a319b1c3306493a512a61ac25b1e9aeeb/snapshort_01.png)
 ***Figure 4: STAR notes chimeric reads (Figure 2), recapitulating an HIV transgene insertion half-site in mouse Dcaf15. The other site on chr8 is in Cdc2a, which is out of frame.***
 
+## Future directions
+
+***Benchmark*** existing integration-specific apps vs. traditional (not integration-specific) mapping apps on control samples such as Tg26. Interrogate large datasets after tuning above apps with control datasets.
+
+***Implementing into DNANexus to enabling non-bioinfos to plug-and-play (with caution).
 
 ## Acknowledgements
 
